@@ -1,0 +1,11 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    outline: none;
+    position: relative;
+}
+.look{
+    color: blue;
+    background-color: rgb(129, 119, 119);
+}
